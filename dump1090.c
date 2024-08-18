@@ -29,6 +29,7 @@
 //
 #include "coaa.h"
 #include "dump1090.h"
+struct stModes Modes; struct stDF tDF;
 //
 // ============================= Utility functions ==========================
 //
